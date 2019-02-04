@@ -1,5 +1,4 @@
 datascience
-string
 numpy
 matplotlib
 pandas
