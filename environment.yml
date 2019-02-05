@@ -1,0 +1,9 @@
+name: ls88-environment
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pip:
+    - pandas
+    - matplotlib
+    - datascience
