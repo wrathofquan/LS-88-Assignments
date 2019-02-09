@@ -1,0 +1,5 @@
+datascience
+numpy
+scipy
+matplotlib
+pandas
